@@ -1,0 +1,2 @@
+bicycle_pkg
+-DCATKIN_DEVEL_PREFIX=/home/mohamed/Bicycle/devel -DCMAKE_INSTALL_PREFIX=/home/mohamed/Bicycle/install -G Unix Makefiles

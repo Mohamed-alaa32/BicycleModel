@@ -1,0 +1,4 @@
+<launch>
+<rosparam file="$(find bicycle_pkg)/config/inputs.yaml" />
+<node name="bicycle_controller" pkg="bicycle_pkg" type="rear.py" output="screen"></node>
+</launch>
